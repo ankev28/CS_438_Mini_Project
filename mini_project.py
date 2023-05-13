@@ -216,6 +216,4 @@ def main(page: ft.Page):
     t.start()
 
 if __name__ == "__main__":
-
     ft.app(target=main)
-    # sniff(prn=handler, store=0)
